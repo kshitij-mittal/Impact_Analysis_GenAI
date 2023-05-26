@@ -1,3 +1,9 @@
 05_SentAnalysis_model/
 05_SentAnalysis_models/
 .ipynb_checkpoints/
+mod_BERT_neg
+mod_BERT_neg_expanded
+mod_BERT_neg.h5
+mod_BERT_pos_new
+mod_BERT_pos_newr
+mod_BERT_pos.h5
