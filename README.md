@@ -1,7 +1,4 @@
-# Impact_Analysis_GenAI
-The objective of this project is to identify what types of tasks and jobs are most likely to see the biggest impact from AI by extracting meaningful insights from unstructured text.  The goal is to provide actionable recommendations on what can be done with AI to automate the jobs and / or improve employee productivity
-
-# Insights 
+# Determining the Impact of Generative AI on current industries
 
 ![Slide1](https://github.com/kshitij-mittal/Impact_Analysis_GenAI/assets/72986557/61015b61-f811-45b9-809a-3e8b86084078)
 ![Slide2](https://github.com/kshitij-mittal/Impact_Analysis_GenAI/assets/72986557/e3cb8619-844b-4763-8756-15b1e92fbaaa)
